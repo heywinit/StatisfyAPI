@@ -1,3 +1,3 @@
 # StatisfyAPI
 
- Backend for Statisfy, made using GoLang & Spotify Web API 
+Backend for Statisfy, made using GoLang & Spotify Web API
